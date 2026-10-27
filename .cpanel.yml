@@ -1,0 +1,5 @@
+﻿---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ozontqbg/public_html/
+    - /bin/cp -R index.html css js images outputs "$DEPLOYPATH"
