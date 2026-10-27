@@ -1,0 +1,17 @@
+# Temporary drafts and scratch files
+work/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated build output (if added later)
+node_modules/
+dist/
+build/
