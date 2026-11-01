@@ -1,4 +1,4 @@
-﻿---
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/ozontqbg/public_html/
